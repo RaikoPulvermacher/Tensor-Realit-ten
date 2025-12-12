@@ -109,7 +109,13 @@ Der Tensor lautet:
    𝑅𝑅𝑅)
 T=EGR
 	​TZR
-	​IMR
+	​IMR ```math\matjbb{T} =
+\begin{pmatrix}
+E & T & I \\
+G & Z & M \\
+R & R & R
+\end{pmatrix}
+
 	​
 
 	​
