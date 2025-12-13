@@ -21,7 +21,7 @@ die Entstehungslogik des Raums sowie den Tensor der Realitäten **TdR**
 
 Das grundlegende Feld lautet:
 
-```math\Psi(r,\Theta)
+r
 
 mit:
 
@@ -113,7 +113,7 @@ Der Tensor lautet:
 
 ##12. Hauptgleichung deiner Theorie
 
-𝑇Ψ=(𝐺+𝑍+𝑇)Ψ
+𝑇dRΨ=(𝐺+𝑍+𝑇)Ψ
 
 
 Diese Gleichung beschreibt:
