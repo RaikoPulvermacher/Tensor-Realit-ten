@@ -105,7 +105,7 @@ Die Nutzung der Inhalte ist erlaubt unter den Bedingungen der Lizenz:
 
 Siehe:
 - [LIZENZ – DEUTSCH](./LIZENZ_-_DEUTSCH.md)
-- `LICENSE – ENGLISH`
+- [LICENSE – ENGLISH](./LICENSE_ENGLISH.md)
 
 ---
 
