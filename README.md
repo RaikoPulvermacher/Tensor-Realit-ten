@@ -104,7 +104,7 @@ Die Nutzung der Inhalte ist erlaubt unter den Bedingungen der Lizenz:
   wird um **Information und Beteiligung** gebeten
 
 Siehe:
-- [LIZENZ – DEUTSCH](./LIZENZ%20-%20DEUTSCH)
+- [LIZENZ – DEUTSCH](./LIZENZ_-_DEUTSCH)
 - `LICENSE – ENGLISH`
 
 ---
