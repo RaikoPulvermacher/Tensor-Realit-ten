@@ -113,3 +113,12 @@ Siehe:
 
 Raiko Pulvermacher  
 (E-Mail siehe Lizenzdateien)
+
+## Runtime / Simulation
+
+Die experimentelle Umsetzung des Modells findest du hier:
+
+👉 [https://github.com/RaikoPulvermacher/Tensor-Sim](https://github.com/RaikoPulvermacher/Tensor-Sim)
+
+Dort wird die Feld-Dynamik praktisch simuliert.
+
