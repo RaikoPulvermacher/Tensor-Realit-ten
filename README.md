@@ -17,12 +17,16 @@ wenn man sie **nicht trennt**, sondern als **zusammenhängendes Ganzes** betrach
 Dieses Repository besteht aus:
 
 - einem **zusammenhängenden Fließtext** (`Fliestext`)
+- einer **Methodikbeschreibung** (`Methodik`)
 - mehreren **grafischen Darstellungen (PNG)**:
   - `Superposition.png`
   - `Materie.png`
   - `Gravitation.png`
   - `Zeit.png`
   - `Tensor der Realitäten.png`
+  - `Atome beschreibung.png`
+  - `Energie flucht.png`
+  - `Neutron entwicklung.png`
 - einer **Lizenz auf Deutsch**
 - einer **Lizenz auf Englisch**
 
@@ -104,8 +108,8 @@ Die Nutzung der Inhalte ist erlaubt unter den Bedingungen der Lizenz:
   wird um **Information und Beteiligung** gebeten
 
 Siehe:
-- [LIZENZ – DEUTSCH](./LIZENZ_-_DEUTSCH.md)
-- [LICENSE – ENGLISH](./LICENSE_ENGLISH.md)
+- [LIZENZ – DEUTSCH](./LIZENZ%20–%20DEUTSCH)
+- [LICENSE – ENGLISH](./LICENSE%20ENGLISH)
 
 ---
 
