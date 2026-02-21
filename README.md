@@ -86,6 +86,42 @@ sondern eine **kohärente Sicht auf Naturzusammenhänge**.
 
 ---
 
+## Entwicklungsgeschichte
+
+### 16. Dezember 2025 – Erste vollständige Version
+
+Grundstruktur des Modells und erste Veröffentlichung:
+
+- `Fliestext` – zusammenhängender Fließtext zur Bottom-Up-Beschreibung
+- `Superposition.png` – Grafik zur Superposition
+- `Materie.png` – Grafik zur Materie
+- `Gravitation.png` – Grafik zur Gravitation
+- `Zeit.png` – Grafik zur Zeit
+- `Tensor der Realitäten.png` – Gesamtdarstellung des Realitäts-Tensors
+- `LIZENZ – DEUTSCH` / `LICENSE ENGLISH` – Lizenzdokumente
+- `README.md` – Beschreibung und Einordnung des Repositories
+
+---
+
+### 29. Dezember 2025 – Erweiterung um Methodik und Energie
+
+Vertiefung des Modells mit ausführlicher Methodikbeschreibung:
+
+- `Methodik` – detaillierte Herleitung und methodische Einordnung des Modells
+- `Energie flucht.png` – Grafik zur Energieflucht
+
+---
+
+### 31. Dezember 2025 – Nachträgliche Ergänzung: Atome und Neutronenentwicklung
+
+Die Atommodelle wurden erst zu einem späteren Zeitpunkt hinzugefügt –  
+als eigenständige Vertiefung der materiellen Ebene des Modells:
+
+- `Atome beschreibung.png` – Grafik zur Atombeschreibung
+- `Neutron entwicklung.png` – Grafik zur Neutronenentwicklung
+
+---
+
 ## Charakter der Arbeit
 
 - persönliche Sichtweise
