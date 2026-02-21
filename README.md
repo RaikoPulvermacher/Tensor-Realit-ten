@@ -27,6 +27,7 @@ Dieses Repository besteht aus:
   - [`Atome beschreibung.png`](./Atome%20beschreibung.png)
   - [`Energie flucht.png`](./Energie%20flucht.png)
   - [`Neutron entwicklung.png`](./Neutron%20entwicklung.png)
+- einem **Diskussionsleitfaden** ([`DISKUSSION.md`](./DISKUSSION.md))
 - einer **Lizenz auf Deutsch** ([`LIZENZ – DEUTSCH`](./LIZENZ%20%E2%80%93%20DEUTSCH))
 - einer **Lizenz auf Englisch** ([`LICENSE ENGLISH`](./LICENSE%20ENGLISH))
 
@@ -146,6 +147,20 @@ Die Nutzung der Inhalte ist erlaubt unter den Bedingungen der Lizenz:
 Siehe:
 - [LIZENZ – DEUTSCH](./LIZENZ%20–%20DEUTSCH)
 - [LICENSE – ENGLISH](./LICENSE%20ENGLISH)
+
+---
+
+## Diskussion & Kommentare
+
+Fragen, Anmerkungen, Kritik und Ideen sind ausdrücklich willkommen!
+
+Du kannst auf zwei Wegen kommentieren oder diskutieren:
+
+- 💬 **[GitHub Discussions](../../discussions)** – für offene Fragen, Gedankenaustausch und Diskussionen rund um das Modell
+- 🐛 **[GitHub Issues](../../issues)** – für konkrete Hinweise, Fehler oder Verbesserungsvorschläge
+
+Einfach oben auf den Tab **„Discussions"** oder **„Issues"** klicken und einen neuen Beitrag starten.  
+Es ist kein Fachwissen erforderlich – jede Perspektive ist willkommen.
 
 ---
 
