@@ -16,19 +16,19 @@ wenn man sie **nicht trennt**, sondern als **zusammenhängendes Ganzes** betrach
 
 Dieses Repository besteht aus:
 
-- einem **zusammenhängenden Fließtext** (`Fliestext`)
-- einer **Methodikbeschreibung** (`Methodik`)
+- einem **zusammenhängenden Fließtext** ([`Fliestext`](./Fliestext))
+- einer **Methodikbeschreibung** ([`Methodik`](./Methodik))
 - mehreren **grafischen Darstellungen (PNG)**:
-  - `Superposition.png`
-  - `Materie.png`
-  - `Gravitation.png`
-  - `Zeit.png`
-  - `Tensor der Realitäten.png`
-  - `Atome beschreibung.png`
-  - `Energie flucht.png`
-  - `Neutron entwicklung.png`
-- einer **Lizenz auf Deutsch**
-- einer **Lizenz auf Englisch**
+  - [`Superposition.png`](./Superposition.png)
+  - [`Materie.png`](./Materie.png)
+  - [`Gravitation.png`](./Gravitation.png)
+  - [`Zeit.png`](./Zeit.png)
+  - [`Tensor der Realitäten.png`](./Tensor%20der%20Realit%C3%A4ten.png)
+  - [`Atome beschreibung.png`](./Atome%20beschreibung.png)
+  - [`Energie flucht.png`](./Energie%20flucht.png)
+  - [`Neutron entwicklung.png`](./Neutron%20entwicklung.png)
+- einer **Lizenz auf Deutsch** ([`LIZENZ – DEUTSCH`](./LIZENZ%20%E2%80%93%20DEUTSCH))
+- einer **Lizenz auf Englisch** ([`LICENSE ENGLISH`](./LICENSE%20ENGLISH))
 
 Die Bilder und der Text ergänzen sich gegenseitig.  
 Keines der Elemente ist für sich allein vollständig.
