@@ -154,6 +154,9 @@ Siehe:
 Raiko Pulvermacher  
 (E-Mail siehe Lizenzdateien)
 
+- ORCID: [https://orcid.org/0009-0003-9431-1001](https://orcid.org/0009-0003-9431-1001)
+- OSF: [https://osf.io/py42t/](https://osf.io/py42t/)
+
 ## Runtime / Simulation
 
 Die experimentelle Umsetzung des Modells findest du hier:
