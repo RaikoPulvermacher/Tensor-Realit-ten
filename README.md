@@ -172,6 +172,14 @@ Raiko Pulvermacher
 - ORCID: [https://orcid.org/0009-0003-9431-1001](https://orcid.org/0009-0003-9431-1001)
 - OSF: [https://osf.io/py42t/](https://osf.io/py42t/)
 
+## Englische Version / English Version
+
+Die englische Version dieses Repositories befindet sich hier:
+
+👉 [https://github.com/RaikoPulvermacher/Tensor-Realities](https://github.com/RaikoPulvermacher/Tensor-Realities)
+
+---
+
 ## Runtime / Simulation
 
 Die experimentelle Umsetzung des Modells findest du hier:
