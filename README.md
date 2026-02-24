@@ -12,6 +12,14 @@ wenn man sie **nicht trennt**, sondern als **zusammenhängendes Ganzes** betrach
 
 ---
 
+## PDF herunterladen
+
+Das gesamte Dokument (Text + alle Grafiken) steht als fertige PDF zum Download bereit:
+
+📄 **[Pulvermacher-Fundament-der-Natur.pdf](https://github.com/RaikoPulvermacher/Tensor-Realit-ten/raw/main/Pulvermacher-Fundament-der-Natur.pdf)**
+
+---
+
 ## Inhalt des Repositories
 
 Dieses Repository besteht aus:
