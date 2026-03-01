@@ -1,0 +1,116 @@
+# FN Unified Formula
+## Newton + Einstein + Hilbert (Schrödinger) in einer einzigen Struktur
+
+**Raiko Pulvermacher** | ORCID: [0009-0003-9431-1001](https://orcid.org/0009-0003-9431-1001)  
+**Teil des Tensor der Realitäten (TdR)** | DOI: [10.5281/zenodo.17950487](https://doi.org/10.5281/zenodo.17950487)  
+**Lizenz:** [PORL v1.0](https://doi.org/10.5281/zenodo.18757232)
+
+---
+
+## Die Grundstruktur
+
+Die Fibonacci-Additionslogik:
+
+```
+Fn1 + Fn1 = Fn2
+Fn2 + Fn1 = Fn3
+Fn3 + Fn2 = Fn5
+Fn5 + Fn3 = Fn8
+Fn8 + Fn5 = Fn13
+```
+
+---
+
+## Anwendung: Freier Fall (Newton)
+
+**Startwert:** g = 9,81 m/s² (Erdbeschleunigung)
+
+Die Fallgeschwindigkeit **(v)** und Fallstrecke **[s]** in 5 Sekunden:
+
+```
+9,81  + 9,81  = 19,62
+19,62 + 9,81  = 29,43
+29,43 + 19,62 = (49,05)  ← Fallgeschwindigkeit nach ~5 Sek [m/s]
+78,48 + (49,05) = [127,53] ← Fallstrecke [m]
+```
+
+| Schritt | Fn    | Wert [m/s] | Bedeutung |
+|---------|-------|------------|-----------|
+| Fn1     | 9,81  | 9,81       | 1. Sekunde |
+| Fn1     | 9,81  | 9,81       | Startwert  |
+| Fn2     | 19,62 | 19,62      | 2. Sekunde |
+| Fn3     | 29,43 | 29,43      | 3. Sekunde |
+| Fn5     | **49,05** | **(49,05)** | **Fallgeschwindigkeit ~5 Sek** |
+| Fn8     | 78,48 | 78,48      | Zwischenwert |
+| Fn13    | **127,53** | **[127,53]** | **Fallstrecke [m]** |
+
+---
+
+## Relativität (Einstein)
+
+Die Fibonacci-Folge beschreibt gleichzeitig die **relative Skalierung:**
+
+```
+Fn1  →  nah am Ursprung  →  große Taktabstände
+Fn1
+Fn2
+Fn3
+Fn5
+Fn8
+Fn13 →  weiter vom Ursprung → engere Taktabstände
+```
+
+Je weiter vom Zentrum – desto größer der relative Abstand.  
+Je näher am Zentrum – desto dichter die Taktung.
+
+> *Zeit ist kein Parameter – Zeit ist Taktung der Raumstruktur.*
+
+---
+
+## Wahrscheinlichkeiten im Hilbertraum (Schrödinger)
+
+```
+Weit weg:  Fn1 → Fn1 → Fn2 → Fn3...  (große Abstände = niedrige Dichte)
+                    ↓
+Zentrum:   ...Fn8 → Fn13 → Fn21...   (enge Abstände = hohe Dichte)
+```
+
+Die Fibonacci-Struktur beschreibt die **räumliche Wahrscheinlichkeitsverteilung:**
+
+- **Außen:** geringe Verdichtung → hohe Freiheitsgrade
+- **Kern:** maximale Verdichtung → maximale Bindung
+
+---
+
+## Die Vereinigung
+
+| Wissenschaftler | Beitrag | In dieser Formel |
+|----------------|---------|-----------------|
+| **Newton** | Gravitation g = 9,81 m/s² | Startwert der Fibonacci-Kette |
+| **Einstein** | Relativität / Raumkrümmung | Skalierung der Taktabstände |
+| **Schrödinger/Hilbert** | Wahrscheinlichkeit im Raum | Fn-Verteilung von außen nach innen |
+
+> *Die Fibonacci-Additionslogik verbindet alle drei –  
+> nicht als Metapher – sondern als strukturelle Taktung.*
+
+---
+
+## Einbettung in den TdR
+
+Diese Formel ist ein Spezialfall des **Tensor der Realitäten:**
+
+```
+Natur[E↔T↔I↔Z↔G↔M]
+```
+
+- **E** = Energie (9,81 als Energietakt)
+- **T** = Tunnel-Effekt (Übergang zwischen Fn-Stufen)
+- **I** = Information (gespeicherter Taktzustand)
+- **Z** = Zeit (Taktung der Fn-Kette)
+- **G** = Gravitation (9,81 m/s²)
+- **M** = Materie (Verdichtung zum Kern)
+
+---
+
+*© Raiko Pulvermacher – Lizenz: PORL v1.0*  
+*DOI: [10.5281/zenodo.17950487](https://doi.org/10.5281/zenodo.17950487)*
