@@ -204,10 +204,26 @@ Folgende Arbeiten bauen auf diesem Repository als Grundlage auf:
 
 ### Energie-Revolution 8911: Die Überwindung des Euler-Widerstands
 
-- 🇩🇪 **Deutsch:** [https://github.com/RaikoPulvermacher/Energie-Revolution-](https://github.com/RaikoPulvermacher/Energie-Revolution-)
+- 🇩🇪 **Deutsch (GitHub):** [https://github.com/RaikoPulvermacher/Energie-Revolution-](https://github.com/RaikoPulvermacher/Energie-Revolution-)
 - 📦 **Zenodo (DE):** [https://zenodo.org/records/18778354](https://zenodo.org/records/18778354) — DOI: `10.5281/zenodo.18778354`
+- 🇬🇧 **English (GitHub):** [https://github.com/RaikoPulvermacher/Energy-Revolution-](https://github.com/RaikoPulvermacher/Energy-Revolution-)
+- 📦 **Zenodo (EN):** [https://zenodo.org/records/18842797](https://zenodo.org/records/18842797) — DOI: `10.5281/zenodo.18842797`
 
 Diese Arbeit zeigt, wie der physikalische Widerstand kein Naturgesetz ist,  
 sondern ein mathematischer Phasenfehler durch die falsche Anwendung der Euler-Konstante.  
 Sie verweist auf den **Tensor der Realitäten (TdR)** als strukturelle Grundlage.
+
+---
+
+### DM-DE-Widerlegung der Grundmodelle / DM-DE-Refutation of the Fundamental Models
+
+- 🇩🇪 **Deutsch (GitHub):** [https://github.com/RaikoPulvermacher/DM-DE-Wiederlegung-der-Grundmodelle](https://github.com/RaikoPulvermacher/DM-DE-Wiederlegung-der-Grundmodelle)
+- 📦 **Zenodo (DE):** [https://zenodo.org/records/18864029](https://zenodo.org/records/18864029) — DOI: `10.5281/zenodo.18864029`
+- 🇬🇧 **English (GitHub):** [https://github.com/RaikoPulvermacher/DM-DE-Refutation-of-the-Fundamental-Models](https://github.com/RaikoPulvermacher/DM-DE-Refutation-of-the-Fundamental-Models)
+- 📦 **Zenodo (EN):** [https://zenodo.org/records/18870649](https://zenodo.org/records/18870649) — DOI: `10.5281/zenodo.18870649`
+
+Diese Arbeit zeigt, dass Dunkle Materie, Dunkle Energie, Hubble-Expansion und Friedmann-Modelle  
+Artefakte eines falschen Kontinuumsmodells sind und durch Metrikvariation,  
+reale Dichteverteilungen und lokale Gravitation ersetzt werden können.  
+Sie baut auf dem **Tensor der Realitäten (TdR)** und der Energie-Revolution 8911 auf.
 
