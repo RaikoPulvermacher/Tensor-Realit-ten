@@ -196,3 +196,18 @@ Die experimentelle Umsetzung des Modells findest du hier:
 
 Dort wird die Feld-Dynamik praktisch simuliert.
 
+---
+
+## Verknüpfte Publikationen
+
+Folgende Arbeiten bauen auf diesem Repository als Grundlage auf:
+
+### Energie-Revolution 8911: Die Überwindung des Euler-Widerstands
+
+- 🇩🇪 **Deutsch:** [https://github.com/RaikoPulvermacher/Energie-Revolution-](https://github.com/RaikoPulvermacher/Energie-Revolution-)
+- 📦 **Zenodo (DE):** [https://zenodo.org/records/18778354](https://zenodo.org/records/18778354) — DOI: `10.5281/zenodo.18778354`
+
+Diese Arbeit zeigt, wie der physikalische Widerstand kein Naturgesetz ist,  
+sondern ein mathematischer Phasenfehler durch die falsche Anwendung der Euler-Konstante.  
+Sie verweist auf den **Tensor der Realitäten (TdR)** als strukturelle Grundlage.
+
